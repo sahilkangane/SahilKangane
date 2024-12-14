@@ -14,8 +14,9 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 ### 🔖 Connect with Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/sahil-kangane/](#)
-- **Email:** [sahilkangane619@gmail.com](#)
+- **LinkedIn:** https://www.linkedin.com/in/sahil-kangane/
+- **Email:** sahilkangane619@gmail.com
+- **Twitter:** https://x.com/sahil_kangane2
 
 ### 🚀 What I’m Up To
 
