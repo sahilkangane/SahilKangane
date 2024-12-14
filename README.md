@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there, I'm Sahil Kangane👋
 
-<!--
-**sahilkangane/SahilKangane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm thrilled to have you here.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| **Category**             | **Details**                                      |
+|--------------------------|--------------------------------------------------|
+| **Programming Languages**| Java, SQL                                       |
+| **Frameworks & Tools**   | Swing, Spring Boot, Git, GitHub                 |
+| **Belief**               | Change is the only constant. I strive to consciously upgrade myself every day. |
+| **Role**                 | Upcoming Software Developer                     |
+| **Interests**            | Programming, Java Full Stack Development        |
+
+### 🔖 Connect with Me
+
+- **LinkedIn:** [https://www.linkedin.com/in/sahil-kangane/](#)
+- **Email:** [sahilkangane619@gmail.com](#)
+
+### 🚀 What I’m Up To
+
+- 🔗 Exploring advanced Java and backend development.
+- 💡 Learning new technologies and sharpening my problem-solving skills.
+- 🔎 Looking to collaborate on meaningful projects and contribute to open-source communities.
+
+### 🙌 Fun Fact
+I believe that programming is not just a skill but a way of solving real-world problems, and it’s what drives me every day!
